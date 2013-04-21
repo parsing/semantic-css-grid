@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<title>Semantic CSS Grid - Um conceito para Layouts Modulares e Flexíveis</title>
+	<link rel="stylesheet" href="estilos/scgrid.css">
+	<link rel="stylesheet" media="all and (max-width: 980px)" href="estilos/scgrid-mobile.css" />
+	<link rel="stylesheet" href="estilos/global.css">
+	<link rel="stylesheet" media="all and (max-width: 980px)" href="estilos/global-mobile.css" />
+</head>
+<body>
+	<div id="documento">
+		<header id="topo">
+			<div class="bl-recipiente">
+				<div class="bl-logo">
+					<h1 class="logo">Semantic CSS Grid</h1>
+					<p>Um conceito para Layouts Modulares e Flexíveis</p>
+				</div>
+			</div>
+		</header>
+		<main id="conteudo">
+			<div class="bl-recipiente">
+				<div class="bl-conteudo bl-conteudo-introducao">
+					<h2 id="introducao">Introdução</h2>
+					<p>Hoje existem diversos sites na internet que utilizam Frameworks baseados em Grids, o grande problema desses frameworks é infringir uma das bases da modularização e flexibilidade do CSS: não definir estilos no documento, ex: <code>&lt;div class="modulo modulo-nome <strong>tamanho-4</strong>"&gt;&lt;/div&gt;</code>.</p>
+				</div>
+				<div class="bl-conteudo bl-conteudo-o-conceito">
+					<h2>O Conceito</h2>
+					<p>A mudança de conceito é simples, consiste em uma(ou mais) folha de estilo para o controle dos grids, tornando possível um espaço que ocupou 4 colunas, ocupar 6 com mudanças extremamentes simples</p>
+				</div>
+				<div class="bl-conteudo bl-conteudo-demonstracao">
+					<h2>Demostração</h2>
+					<p>Redimensine a janela do seu navegador, de forma que o tamanho seja inferior a 980px.</p>
+				</div>
+			</div>
+		</main>
+		<footer id="rodape">
+			<div class="bl-recipiente">
+				<address><p>Semantic CSS Grid é um projeto de <a href="http://twitter.com/thiagodini" title="Ir para o Twitter de Thiago Dini">@thiagodini</a></p></address>
+			</div>
+		</footer>
+	</div>
+</body>
+</html>

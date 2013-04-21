@@ -1,0 +1,114 @@
+/*
+/////////////////////
+//SEMANTIC CSS GRID
+///////////////////
+*/
+
+/* 12 COLUNAS */
+ 	
+ 	.bl-logo, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 940px;
+	}
+
+/* 11 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 860px;
+	}
+
+/* 10 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 780px;
+	}
+
+/* 9 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 700px;
+	}
+
+/* 8 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 620px;
+	}
+
+/* 7 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 540px;
+	}
+
+/* 6 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 460px;
+	}
+
+/* 5 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 380px;
+	}
+
+/* 4 COLUNAS */
+	
+	.bl-conteudo, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 300px;
+	}
+
+/* 3 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 220px;
+	}
+
+/* 2 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 6px;
+		margin-right: 10px;
+		width: 140px;
+	}
+
+/* 1 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left:64px;
+		margin-right: 08px;
+		width: 60px;	}

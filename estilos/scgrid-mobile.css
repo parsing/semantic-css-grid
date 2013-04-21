@@ -1,0 +1,80 @@
+/*
+/////////////////////
+//SEMANTIC CSS GRID
+///////////////////
+*/
+
+/* 12 COLUNAS */
+ 	
+ 	.bl-logo, 
+	.bl-conteudo.bl-conteudo-demonstracao, 
+	.scgrid {
+		width: 820px
+	}
+
+/* 11 COLUNAS */
+	
+	.scgrid {
+		width: 750px
+	}
+
+/* 10 COLUNAS */
+	
+	.scgrid {
+		width: 680px
+	}
+
+/* 9 COLUNAS */
+	
+	.scgrid {
+		width: 610px
+	}
+
+/* 8 COLUNAS */
+	
+	.scgrid {
+		width: 540px
+	}
+
+/* 7 COLUNAS */
+	
+	.scgrid {
+		width: 470px
+	}
+
+/* 6 COLUNAS */
+	
+	.bl-conteudo, 
+	.scgrid {
+		width: 400px
+	}
+
+/* 5 COLUNAS */
+	
+	.scgrid {
+		width: 330px
+	}
+
+/* 4 COLUNAS */
+	
+	.scgrid {
+		width: 260px
+	}
+
+/* 3 COLUNAS */
+	
+	.scgrid {
+		width: 190px
+	}
+
+/* 2 COLUNAS */
+	
+	.scgrid {
+		width: 120px
+	}
+
+/* 1 COLUNAS */
+	
+	.scgrid {
+		width: 50px
+	}
