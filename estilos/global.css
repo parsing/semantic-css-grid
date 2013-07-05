@@ -1,0 +1,105 @@
+/*
+/////////////////////////
+//SEMANTIC CSS GRID RESET
+///////////////////////
+*/
+
+* {	margin: 0; padding: 0; }
+p, h1, h2, h3, h4, h5, h6, label, span { line-height: 100%; font-weight: normal; font-size: 1em; }
+address { font-style: normal; }
+html, body { height: 100%; }
+main, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, div { display: block; vertical-align: top; }
+body { font-size: 62.5%; }
+
+/*
+//////////
+//HEADERS
+////////////
+*/
+
+h1, h2, h3, h4 {
+	font-family: arial, sans-serif;
+	color: #333;
+}
+h1 {
+	font-size: 3.2em;
+	color: #000;
+}
+h2 {
+	font-size: 2.4em;
+}
+h3 {
+	font-size: 1.8em;
+}
+h4 {
+	font-size: 1.4em;
+}
+
+/*
+//////////
+//TEXTOS
+////////////
+*/
+
+p, li, label, input {
+	margin-top: 10px;
+	font-family: arial, sans-serif;
+	font-size: 1.4em;
+	color: #666;
+	line-height: 140%;
+}
+label {
+	line-height: 120%;
+}
+li { 
+	list-style-position: inside;
+}
+li p,
+li li {
+	font-size: 1em;
+}
+li li {
+	margin-left: 20px;
+}
+
+/*
+//////////
+//COMPONENTES
+////////////
+*/
+
+hr {
+	border: none;
+	height: 1px;
+	display: block;
+	background-color: #eee;
+}
+
+/*
+//////////
+//ESTRURA
+////////////
+*/
+
+.bl-recipiente {
+	padding: 40px 0;
+	width: 972px;
+	margin: 0 auto;
+}
+.bl-recipiente:hover * { box-shadow: 0 0 1px #0ff; }
+#topo {}
+	#topo .logo {
+		letter-spacing: -.05em;
+	}
+#conteudo {}
+	#conteudo .bl-recipiente {
+		padding-top: 0;
+	}
+		#conteudo .bl-topo-secao {
+			margin-top: 20px;
+			padding: 20px 0;
+		} 
+		#conteudo .bl-conteudo {
+			margin-top: 20px;
+		} 
+#rodape {}

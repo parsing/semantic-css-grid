@@ -1,0 +1,129 @@
+/*
+/////////////////////
+//SEMANTIC CSS GRID
+///////////////////
+*/
+
+/* 12 COLUNAS */
+ 	
+	.bl-conteudo.bl-conteudo-exemplo-12, 
+ 	.bl-logo, 
+ 	.bl-direitos, 
+ 	.bl-topo-secao, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 936px;
+	}
+
+/* 11 COLUNAS */
+	
+	.bl-conteudo.bl-conteudo-exemplo-9, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 855px;
+	}
+
+/* 10 COLUNAS */
+	
+	.bl-conteudo.bl-conteudo-exemplo-1, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 774px;
+	}
+
+/* 9 COLUNAS */
+	
+	.bl-conteudo.bl-conteudo-exemplo-5, 
+	.bl-conteudo.bl-conteudo-exemplo-11, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 693px;
+	}
+
+/* 8 COLUNAS */
+	
+	.bl-conteudo.bl-conteudo-exemplo-3, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 612px;
+	}
+
+/* 7 COLUNAS */
+	
+	.bl-conteudo.bl-conteudo-exemplo-7, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 531px;
+	}
+
+/* 6 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 450px;
+	}
+
+/* 5 COLUNAS */
+	
+	.bl-conteudo.bl-conteudo-exemplo-8, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 369px;
+	}
+
+/* 4 COLUNAS */
+	
+	.bl-conteudo.bl-conteudo-exemplo-4, 
+	.bl-conteudo, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 288px;
+	}
+
+/* 3 COLUNAS */
+	
+	.bl-conteudo.bl-conteudo-exemplo-6, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 207px;
+	}
+
+/* 2 COLUNAS */
+	
+	.bl-conteudo.bl-conteudo-exemplo-2, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 126px;
+	}
+
+/* 1 COLUNAS */
+	
+	.bl-conteudo.bl-conteudo-exemplo-10, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 18px;
+		width: 45px;
+	}

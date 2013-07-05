@@ -1,0 +1,129 @@
+/*
+/////////////////////
+//SEMANTIC CSS GRID
+///////////////////
+*/
+
+/* 12 COLUNAS */
+ 	
+ 	.bl-logo, 
+	.bl-conteudo-demonstracao, 
+	.bl-topo-secao, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 95.3125%;
+	}
+
+/* 11 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 86.97916666666666%;
+	}
+
+/* 10 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 78.64583333333334%;
+	}
+
+/* 9 COLUNAS */
+	
+	.bl-conteudo-exemplo-4, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 70.3125%;
+	}
+
+/* 8 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 61.979166666666664%;
+	}
+
+/* 7 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 53.645833333333336%;
+	}
+
+/* 6 COLUNAS */
+	
+	.bl-conteudo-exemplo-2, 
+	.bl-conteudo, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 45.3125%;
+	}
+
+/* 5 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 36.97916666666667%;
+	}
+
+/* 4 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 28.645833333333332%;
+	}
+
+/* 3 COLUNAS */
+	
+	.bl-conteudo-exemplo-1, 
+	.bl-conteudo-exemplo-3, 
+	.bl-conteudo-exemplo-5, 
+	.bl-conteudo-exemplo-6, 
+	.bl-conteudo-exemplo-7, 
+	.bl-conteudo-exemplo-8, 
+	.bl-conteudo-exemplo-9, 
+	.bl-conteudo-exemplo-10, 
+	.bl-conteudo-exemplo-11, 
+	.bl-conteudo-exemplo-12, 
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 20.3125%;
+	}
+
+/* 2 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 11.979166666666668%;
+	}
+
+/* 1 COLUNAS */
+	
+	.scgrid {
+		display: inline-block;
+		margin-left: 1.953125%;
+		margin-right: 2.34375%;
+		width: 3.6458333333333335%;
+	}
