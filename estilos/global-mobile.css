@@ -6,7 +6,6 @@
 
 .bl-recipiente {
 	width: auto;
-<<<<<<< HEAD
 }
 
 @media screen and (max-width: 480px) {
@@ -20,6 +19,4 @@
 	.bl-recipiente {
 		padding: 5%;
 
-=======
->>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 }
