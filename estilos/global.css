@@ -9,7 +9,10 @@ p, h1, h2, h3, h4, h5, h6, label, span { line-height: 100%; font-weight: normal;
 address { font-style: normal; }
 html, body { height: 100%; }
 main, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, div { display: block; vertical-align: top; }
+<<<<<<< HEAD
 body { font-size: 62.5%; }
+=======
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 
 /*
 //////////
@@ -64,6 +67,7 @@ li li {
 
 /*
 //////////
+<<<<<<< HEAD
 //COMPONENTES
 ////////////
 */
@@ -77,21 +81,31 @@ hr {
 
 /*
 //////////
+=======
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 //ESTRURA
 ////////////
 */
 
 .bl-recipiente {
+<<<<<<< HEAD
 	padding: 40px 0;
 	width: 972px;
 	margin: 0 auto;
 }
 .bl-recipiente:hover * { box-shadow: 0 0 1px #0ff; }
+=======
+	padding: 20px 0;
+	width: 960px;
+	margin: 0 auto;
+}
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 #topo {}
 	#topo .logo {
 		letter-spacing: -.05em;
 	}
 #conteudo {}
+<<<<<<< HEAD
 	#conteudo .bl-recipiente {
 		padding-top: 0;
 	}
@@ -102,4 +116,10 @@ hr {
 		#conteudo .bl-conteudo {
 			margin-top: 20px;
 		} 
+=======
+	#conteudo .bl-conteudo {
+		margin-top: 20px;
+		background-color: rgba(0, 0, 0, 0.05);
+	} 
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 #rodape {}

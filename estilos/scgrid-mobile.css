@@ -7,6 +7,7 @@
 /* 12 COLUNAS */
  	
  	.bl-logo, 
+<<<<<<< HEAD
 	.bl-conteudo-demonstracao, 
 	.bl-topo-secao, 
 	.scgrid {
@@ -14,56 +15,83 @@
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 95.3125%;
+=======
+	.bl-conteudo.bl-conteudo-demonstracao, 
+	.scgrid {
+		width: 820px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 11 COLUNAS */
 	
 	.scgrid {
+<<<<<<< HEAD
 		display: inline-block;
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 86.97916666666666%;
+=======
+		width: 750px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 10 COLUNAS */
 	
 	.scgrid {
+<<<<<<< HEAD
 		display: inline-block;
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 78.64583333333334%;
+=======
+		width: 680px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 9 COLUNAS */
 	
+<<<<<<< HEAD
 	.bl-conteudo-exemplo-4, 
 	.scgrid {
 		display: inline-block;
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 70.3125%;
+=======
+	.scgrid {
+		width: 610px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 8 COLUNAS */
 	
 	.scgrid {
+<<<<<<< HEAD
 		display: inline-block;
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 61.979166666666664%;
+=======
+		width: 540px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 7 COLUNAS */
 	
 	.scgrid {
+<<<<<<< HEAD
 		display: inline-block;
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 53.645833333333336%;
+=======
+		width: 470px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 6 COLUNAS */
 	
+<<<<<<< HEAD
 	.bl-conteudo-exemplo-2, 
 	.bl-conteudo, 
 	.scgrid {
@@ -71,28 +99,42 @@
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 45.3125%;
+=======
+	.bl-conteudo, 
+	.scgrid {
+		width: 400px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 5 COLUNAS */
 	
 	.scgrid {
+<<<<<<< HEAD
 		display: inline-block;
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 36.97916666666667%;
+=======
+		width: 330px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 4 COLUNAS */
 	
 	.scgrid {
+<<<<<<< HEAD
 		display: inline-block;
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 28.645833333333332%;
+=======
+		width: 260px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 3 COLUNAS */
 	
+<<<<<<< HEAD
 	.bl-conteudo-exemplo-1, 
 	.bl-conteudo-exemplo-3, 
 	.bl-conteudo-exemplo-5, 
@@ -108,22 +150,34 @@
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 20.3125%;
+=======
+	.scgrid {
+		width: 190px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 2 COLUNAS */
 	
 	.scgrid {
+<<<<<<< HEAD
 		display: inline-block;
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 11.979166666666668%;
+=======
+		width: 120px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
 
 /* 1 COLUNAS */
 	
 	.scgrid {
+<<<<<<< HEAD
 		display: inline-block;
 		margin-left: 1.953125%;
 		margin-right: 2.34375%;
 		width: 3.6458333333333335%;
+=======
+		width: 50px
+>>>>>>> 23b62e4149e09080e2a9f00f8c5228f9236fdfad
 	}
